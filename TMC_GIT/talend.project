@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_FzAjkG99Ee6UHP2AM1cdkQ" label="TMC_GIT" description="TMC_TALEND" language="java" technicalLabel="TMC_GIT" author="_FzAjkW99Ee6UHP2AM1cdkQ" productVersion="Talend Cloud API Services Platform-8.0.1.20230418_1502-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/hamzaelmorabit/TMC_TALEND&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_F1LGwG99Ee6UHP2AM1cdkQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_FzAjkW99Ee6UHP2AM1cdkQ" login="hamzamorabit123@trial48841.us.talend.com" firstName="Hamza" lastName="MORABIT" type="DQ"/>
+</xmi:XMI>
